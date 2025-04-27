@@ -11,4 +11,6 @@ ____________________________________
 # V61 arm64 by now
 
 # V13 with architecture armeabi-v7a
+
+# V15 with architecture armeabi-v7a
 -------------------------------------
