@@ -15,4 +15,6 @@ ____________________________________
 # V13 with architecture armeabi-v7a
 
 # V15 with architecture armeabi-v7a
+
+# V30 with architecture armeabi-v7a
 -------------------------------------
